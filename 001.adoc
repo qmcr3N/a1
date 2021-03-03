@@ -1,0 +1,57 @@
+
+
+== ما اسمك؟
+.Wie heißen Sie?
+Ich heiße ...
+
+.Wer sind Sie?
+Ich bin ...
+
+.Wie ist Ihr Name?
+Mein Name ist ...
+
+
+== من أين أنت؟
+.Woher kommen Sie?
+Ich komme aus ...
+
+
+== كيف حالك؟
+.Wie geht es Ihnen?
+Mir geht es ...
+
+Wie geht es? == Wie geht's?
+
+
+== أي لغة تتحدث؟
+.Welche Sprachen sprechen Sie?
+.Was sprechen Sie?
+Ich spreche (kein/nicht) ...
+> ein bisschen
+
+
+== من هذا؟
+.Wer ist das?
+Das ist ...
+
+
+
+> Wie bitte?
+
+> Schönen Tag noch
+> Schönen Abend noch
+
+
+der Norden  ↑ _Moin_
+der Westen  ←
+der Osten   →
+der Süden   ↓ _Grüß Gott_
+
+
+die Sprache / -n
+
+
+heißen
+kommen
+sein
+sprechen
