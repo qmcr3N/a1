@@ -1,0 +1,18 @@
+
+
+.Welche Farb hat ...?
+
+rot
+gelb
+blau
+grün
+schwarz
+weiß
+braun
+grau
+rosa
+lila
+bunt ملون
+
+
+der Regenschirm شمسية

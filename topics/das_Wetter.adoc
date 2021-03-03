@@ -1,0 +1,54 @@
+
+
+= das Wetter
+
+.Wie ist das Wetter heute?
+
+Es ist schön (draußen).
+       warm / heiß حار
+       kalt / kühl بارد
+       mild معتدل
+       arschkalt سقيع
+       ... Grad
+
+
+die Sonne *scheint*
+sonnig
+
+der Regen مطر
+Es regnet ...
+
+der Schnee ثلج
+Es schneit ...
+
+der Wind ريح
+Es ist windig.
+
+die Wolke غيمة
+Es ist bewölkt.
+
+das Gewitter برق / رعد
+der Blitz برق
+der Donner رعد
+
+der Nebel ضباب
+neblig
+
+
+der Regenbogen قوس قزح
+
+> in ... ist es ...
+  Bei mir ...
+
+das Thermometer مقياس الحرارة
+die Temperatur درجة الحرارة
+Es ist kalt / warm
+
+
+.die Jahreszeit / -n فصل
+der Sommer
+der Herbst خريف
+der Winter
+der Frühling ربيع
+
+
