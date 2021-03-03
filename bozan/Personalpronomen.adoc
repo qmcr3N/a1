@@ -1,0 +1,18 @@
+
+
+Ich    أنا
+du     أنت
+er     هو
+sie    هي
+es     محايد
+wir    نحن
+ihr    أنتم
+Sie    حضرتك
+sie    هم
+
+___
+
+der  >er
+die  >sie
+das  >es
+die  >sie هم

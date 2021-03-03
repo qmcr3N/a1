@@ -1,0 +1,33 @@
+
+
+= der Buchstabe / -n
+
+
+A B C D E F G H I
+J K L M N O P Q R
+S T U V W X Y Z
+
+
+f - eff
+v - fau
+w - wee
+
+
+
+.die Vokale
+a, e, i, o, u
+
+.die Umlaute
+ä, ö, ü
+
+.Scharfes ß
+
+
+
+___
+
+ß بعد صوتي ممطوط
+die Str**a**ße
+
+ss بعد صوتي قصير
+das **E**ssen

@@ -1,0 +1,21 @@
+
+== ال التعريف
+der مذكر
+die مؤنث
+das حيادي
+die جمع _دائماً_
+
+
+
+== نكرة
+ein
+eine
+ein
+---
+
+=== نفي النكرة
+kein
+keine
+kein
+*keine*
+
